@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá 👋
+<br>
 
-<!--
-**feliperyo/feliperyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Felipe Ryo, Desenvolvedor Front-End. <br>
+Atualmente aprendendo e criando projetos com:
+<br>
+<br>
+ - <img width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-html" />
+ - <img width="85px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="img-css" />
+ - <img width="135px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="img-java" />
+ <br>
+Fale comigo:
+<br>
+<a href="mailto:ryofeliperyo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
+<br>
+<br>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true" />
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&hide_progress=true)

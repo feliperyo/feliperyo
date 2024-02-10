@@ -11,7 +11,7 @@ Atualmente aprendendo e criando projetos com:
  <br>
 Fale comigo:
 <br>
-<a href="mailto:ryofeliperyo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
+<a href="mailto:ryofeliperyo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
 <br>
 <br>
 <br>
@@ -27,4 +27,4 @@ Fale comigo:
   <img src="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true" />
 </picture>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&theme=dark)

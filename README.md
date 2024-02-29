@@ -12,7 +12,7 @@ Atualmente aprendendo e criando projetos com:
 Fale comigo:
 <br>
 <a href="mailto:ryofeliperyo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
-<br>
+<a href="https://www.linkedin.com/in/felipe-ryo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/></a>
 <br>
 <br>
 <picture>

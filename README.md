@@ -10,7 +10,12 @@ Atualmente aprendendo e criando projetos com:
  - <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="img-java" />
  - <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img-node" />
  - <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-react" />
+ - <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="img-figma" />
+ - <img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="img-netlify" />
  <br>
+<p>Tenho realizado cursos e estou em uma formação FullStack,
+ <br>diariamente praticando a parte técnica em projetos e desafios.</p>
+<br>
 Fale comigo:
 <br>
 <a href="mailto:ryofeliperyo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>

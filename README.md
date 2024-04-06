@@ -22,7 +22,8 @@ Fale comigo:
 <a href="https://www.linkedin.com/in/feliperyo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/></a>
 <br>
 <br>
-<p>Meu Portfólio: <link>https://feliperyo.github.io/first-portfolio/</link></p>
+<p>Meu Portfólio:   <a href="https://feliperyo.github.io/first-portfolio/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a></p>
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true&theme=dark"

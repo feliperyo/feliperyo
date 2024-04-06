@@ -2,7 +2,7 @@
 <br>
 
 Eu sou o Felipe Ryo, Desenvolvedor Front-End. <br>
-Atualmente aprendendo e criando projetos com:
+Atualmente desenvolvendo projetos com:
 <br>
 <br>
  - <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-html" />

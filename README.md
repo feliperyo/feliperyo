@@ -22,6 +22,7 @@ Fale comigo:
 <a href="https://www.linkedin.com/in/feliperyo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/></a>
 <br>
 <br>
+<p>Meu Portfólio: <link>https://feliperyo.github.io/first-portfolio/</link></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true&theme=dark"

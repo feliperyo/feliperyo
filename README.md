@@ -1,7 +1,7 @@
 ### Olá 👋
 <br>
 
-Eu sou o Felipe Ryo, Desenvolvedor Front-End. <br>
+Eu sou o Felipe Ryo, Desenvolvedor Web Full-Stack. <br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>
@@ -13,8 +13,8 @@ Atualmente desenvolvendo projetos com:
  - <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="img-figma" />
  - <img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="img-netlify" />
  <br>
-<p>Tenho realizado cursos e estou em uma formação FullStack,
- <br>diariamente praticando a parte técnica em projetos e desafios.</p>
+<p>Crio tanto a parte visual e interativa de sites quanto a parte de banco de dados e API, garantindo que os usuários finais tenham uma experiência eficiente, funcional e agradável.
+ <br><br>Destacado por excelentes layouts responsivos, venho trazendo atualização e manutenção para corrigir bugs, adicionar novos recursos e garantir que o site funcione corretamente em todos os navegadores e dispositivos. </p>
 <br>
 Fale comigo:
 <br>

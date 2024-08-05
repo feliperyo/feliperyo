@@ -5,19 +5,25 @@ Eu sou o Felipe Ryo, Desenvolvedor Web Full-Stack. <br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>
- - <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-html" />
- - <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="img-css" />
- - <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="img-java" />
- - <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img-node" />
- - <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-react" />
- - <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="img-figma" />
- - <img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="img-netlify" />
+<div width="200em">
+ <img align="center" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html-icon" />
+ <img align="center" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css-icon" />
+ <img align="center" height="30"  width="40" alt="tailwind-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+ <img align="center" height="30"  width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="center" height="30"  width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ <img align="center" height="30"  width="40" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+ <img align="center" height="30"  width="40" alt="cs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+ <img align="center" height="30"  width="40" alt="dotnet-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />   
+ <img align="center" height="30"  width="40" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+ <img align="center" height="30"  width="40" alt="ps-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+ <img align="center" height="30"  width="40" alt="ai-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />         
+</div>     
+          
  <br>
 <p>Crio tanto a parte visual e interativa de sites quanto a parte de banco de dados e API, garantindo que os usuários finais tenham uma experiência eficiente, funcional e agradável.
  <br><br>Destacado por excelentes layouts responsivos, venho trazendo atualização e manutenção para corrigir bugs, adicionar novos recursos e garantir que o site funcione corretamente em todos os navegadores e dispositivos. </p>
 <br>
 Fale comigo:
-<br>
 <a href="mailto:ryofeliperyo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
 <a href="https://www.linkedin.com/in/feliperyo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/></a>
 <br>

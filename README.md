@@ -25,6 +25,6 @@ Fale comigo:
 <p>Meu Portfólio:   <a href="https://feliperyo.github.io/first-portfolio/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a></p>
 <br>
 <div>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true&theme=dark" />
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&layout=compact&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperyo&show_icons=true&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&layout=compact&theme=dark" />
 </div>

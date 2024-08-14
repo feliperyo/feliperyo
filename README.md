@@ -26,6 +26,7 @@ Atualmente desenvolvendo projetos com:
 Fale comigo:
 <a href="mailto:ryofeliperyo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="img-gmail" /></a>
 <a href="https://www.linkedin.com/in/feliperyo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/></a>
+<a href="http://wa.me/551172821988" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="img-whatsapp"/></a>
 <br>
 <br>
 <p>Meu Portfólio:   <a href="https://feliperyo.github.io/first-portfolio/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a></p>

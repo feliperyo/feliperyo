@@ -1,7 +1,7 @@
 ### Olá 👋
 <br>
 
-Eu sou o Felipe Ryo, Desenvolvedor Web Full-Stack. <br>
+Eu sou o Felipe Ryo, Desenvolvedor Full-Stack e UX Designer. <br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>

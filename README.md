@@ -1,7 +1,7 @@
 ### Olá 👋🏼
 <br>
 
-Eu sou o Felipe Ryo, Desenvolvedor Front-End e UX/UI Designer na Freelings Co®. <br>
+Eu sou o Felipe Ryo, Desenvolvedor Front-End | UX/UI Designer na Freelings Co® e Suporte Técnico | Professor no DevClub. <br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>

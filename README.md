@@ -1,7 +1,7 @@
 ### Olá 👋🏼
 <br>
 
-Eu sou o Felipe Ryo, Desenvolvedor Full-Stack e UX/UI Designer na Freelings Co®. <br>
+Eu sou o Felipe Ryo, Desenvolvedor Front-End e UX/UI Designer na Freelings Co®. <br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>

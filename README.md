@@ -3,7 +3,7 @@
 
 Eu sou o Felipe Ryo, <br>
 Desenvolvedor Front-End e UX/UI Designer na RyArt Design. <br>
-Suporte Técnico e Professor no DevClub. <br><br>
+Programador, Suporte Técnico e Professor no DevClub. <br><br>
 Atualmente desenvolvendo projetos com:
 <br>
 <br>

@@ -41,7 +41,7 @@
 
 ### Design & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,xd,vscode,git,github" alt="Design & Tools" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,vscode,git,github" alt="Design & Tools" />
 </div>
 
 <br>
@@ -51,8 +51,8 @@
 🎨 **Design UX/UI** - Criação de interfaces intuitivas e atraentes  
 ⚡ **Front-End Development** - Sites responsivos e interativos  
 🔧 **Back-End Development** - APIs robustas e banco de dados  
-🎯 **Full Stack** - Soluções completas do design à implementação
-👨‍🏫 **Ensino** - Professor no DevClub compartilhando conhecimento  
+🎯 **Full Stack** - Soluções completas do design à implementação  
+👨‍🏫 **Ensino** - Professor no DevClub compartilhando conhecimento
 
 <br>
 

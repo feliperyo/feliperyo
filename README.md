@@ -70,11 +70,6 @@
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feliperyo&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/feliperyo" alt="Contribution Chart" width="90%" />
-</div>
-
 <br>
 
 ## 📫 Vamos Conversar?

@@ -64,12 +64,6 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/feliperyo">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feliperyo&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 <br>
 
 ## 📫 Vamos Conversar?

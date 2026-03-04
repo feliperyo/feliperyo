@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Ryo&fontSize=42&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20|%20UX/UI%20Designer&descAlignY=51&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Ryo&fontSize=42&fontAlignY=32&desc=Founder%20%26%20COO%20|%20Full%20Stack%20Developer%20|%20UX/UI%20Designer&descAlignY=51&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Ryo!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Professor+no+DevClub+%F0%9F%93%9A;Criando+experi%C3%AAncias+incr%C3%ADveis+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Ryo!+%F0%9F%91%8B;Founder+%26+COO+na+Red+Rocket+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Criando+Solu%C3%A7%C3%B5es+Escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,18 +12,16 @@
 
 <img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Felipe Ryo** | Engenheiro de Software  
+**Felipe Ryo** | Founder & COO  
 📍 Brasil 🇧🇷  
-🏢 DevClub
 
-💼 **Atuação:**
-- 💻 Engenheiro de Software
-- 🎨 UX/UI Design
-- 🛠️ Suporte Técnico
-- 👨‍🏫 Professor DevClub
+💼 **Atuação Atual:**
+- 🚀 Founder & COO — Red Rocket
+- 🎬 Editor de Vídeo — Astronaut
+- 🎨 Designer — Astronaut
 
-🎯 **Foco:** Criar experiências digitais eficientes e agradáveis  
-🚀 **Hobbies:** Código • Design • Ensinar • Inovar
+🎯 **Foco:** Criar experiências digitais eficientes e escaláveis  
+🚀 **Hobbies:** Código • Design • Estratégia • Inovação
 
 <br clear="both">
 
@@ -48,11 +46,10 @@
 
 ## 💼 O Que Eu Faço
 
-🎨 **Design UX/UI** - Criação de interfaces intuitivas e atraentes  
+🎨 **Design UX/UI** - Interfaces intuitivas e estratégicas  
 ⚡ **Front-End Development** - Sites responsivos e interativos  
-🔧 **Back-End Development** - APIs robustas e banco de dados  
-🎯 **Full Stack** - Soluções completas do design à implementação  
-👨‍🏫 **Ensino** - Professor no DevClub compartilhando conhecimento
+🔧 **Back-End Development** - APIs e integrações  
+🚀 **SaaS & Automação** - Construção de soluções escaláveis  
 
 <br>
 

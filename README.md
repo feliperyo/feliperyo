@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Ryo&fontSize=42&fontAlignY=32&desc=Founder%20%26%20COO%20|%20Full%20Stack%20Developer%20|%20UX/UI%20Designer&descAlignY=51&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=6C63FF&text=Felipe%20Ryo&fontSize=42&fontAlignY=38" />
 </div>
 
 <div align="center">
@@ -16,12 +16,12 @@
 📍 Brasil 🇧🇷  
 
 💼 **Atuação Atual:**
-- 🚀 Founder & COO — Red Rocket
-- 🎬 Editor de Vídeo — Astronaut
-- 🎨 Designer — Astronaut
+- 🚀 Founder & COO — Red Rocket  
+- 🎬 Editor de Vídeo — Astronaut  
+- 🎨 Designer — Astronaut  
 
 🎯 **Foco:** Criar experiências digitais eficientes e escaláveis  
-🚀 **Hobbies:** Código • Design • Estratégia • Inovação
+🚀 **Hobbies:** Código • Design • Estratégia • Inovação  
 
 <br clear="both">
 
@@ -61,6 +61,7 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperyo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
+
 <br>
 
 ## 📫 Vamos Conversar?
@@ -80,4 +81,4 @@
   <img src="https://komarev.com/ghpvc/?username=feliperyo&color=6C63FF&style=for-the-badge&label=Visitantes" alt="Profile views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:0F0F1A&section=footer"/>
